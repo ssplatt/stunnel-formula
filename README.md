@@ -6,4 +6,4 @@ Salt formula for stunnel
 ## Development
 Fork, clone, branch. Commit, push, PR.
 
-Requires Vagrant, Kitchen, kitchen-vagrant
+Requires Vagrant, Kitchen, kitchen-vagrant, kitchen-salt
